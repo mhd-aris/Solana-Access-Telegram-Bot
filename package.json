@@ -1,0 +1,17 @@
+{
+  "name": "solana-access-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Aris",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.1",
+    "node-persist": "^4.0.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
